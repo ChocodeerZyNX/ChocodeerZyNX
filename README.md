@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phyllis-Orpheus
+- 👋 Hi, I’m Phyllis
 - 👀 I’m interested in Discord
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on ...
