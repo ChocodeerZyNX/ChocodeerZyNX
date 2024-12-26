@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Phyllis
-- 👀 I’m interested in Discord
+- 👀 I’m interested in
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
